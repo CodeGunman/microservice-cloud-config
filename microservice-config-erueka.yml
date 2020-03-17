@@ -8,7 +8,7 @@ server:
 spring:
   profiles: dev
   application:
-    name: microservice-config-eureka
+    name: microservice-config-eureka-bustest
 
 eureka:
   instance:
